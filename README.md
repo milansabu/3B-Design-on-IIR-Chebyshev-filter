@@ -52,10 +52,9 @@ ylabel('Magnitude ');
 title(' Frequency Response of Chebyshev IIR LPF');
 ```
 # CALCULATION:
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/ea5d40d5-14ff-4786-bdc2-ac9587895029" />
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/36209051-e83d-4e82-ad69-fccdf9776b45" />
-<img width="1280" height="342" alt="image" src="https://github.com/user-attachments/assets/3442d378-16eb-48bd-99fc-b9ce80e8f775" />
-<img width="1600" height="1357" alt="image" src="https://github.com/user-attachments/assets/868dda06-fdb8-4191-92b3-c310e1741db7" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/bd2cd4ce-a159-46b6-bed9-2fb3d0312b73" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d272d0a0-5a24-4fc0-bbba-6128ff63e8b0" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8fb297f2-8a37-43a2-a2e0-5611acece17a" />
 
 # OUTPUT: 
 <img width="826" height="995" alt="image" src="https://github.com/user-attachments/assets/7e377df3-30c5-482d-8785-9e105f050ac3" />
